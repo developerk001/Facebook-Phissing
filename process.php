@@ -1,5 +1,8 @@
 <?php
-  /* Database Structure
+  /*
+    *Important Notice : This project is for knowledge purpose that how hackers do phissing attacks.
+                        Please don't try this to someone.
+    Database Structure
     Database Name : facebook
     Tabel Name    : details
     ****************************************************
